@@ -1,20 +1,20 @@
-bsvlog
+mvclog
 ======
 
-[![Build Status](http://img.shields.io/travis/yaochaoutokyo/bsvlog.svg)](https://travis-ci.org/yaochaoutokyo/bsvlog)
+[![Build Status](http://img.shields.io/travis/metasv/mvclog.svg)](https://travis-ci.org/metasv/mvclog)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/yaochaoutokyo/bsvlog)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/metasv/mvclog)
 
-Package bsvlog defines a logger interface and provides a default implementation
+Package mvclog defines a logger interface and provides a default implementation
 of a subsystem-aware leveled logger implementing the same interface.
 
 ## Installation
 
 ```bash
-$ go get github.com/yaochaoutokyo/bsvlog
+$ go get github.com/metasv/mvclog
 ```
 
 ## License
 
-Package bsvlog is licensed under the [copyfree](http://copyfree.org) ISC
+Package mvclog is licensed under the [copyfree](http://copyfree.org) ISC
 License.

@@ -2,7 +2,7 @@
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
-package bsvlog
+package mvclog
 
 // Logger is an interface which describes a level-based logger.  A default
 // implementation of Logger is implemented by this package and can be created
